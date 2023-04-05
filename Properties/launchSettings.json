@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cosmostrigger1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7070",
+      "launchBrowser": false
+    }
+  }
+}
